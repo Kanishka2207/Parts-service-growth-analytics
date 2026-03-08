@@ -1,0 +1,25 @@
+DATA QUALITY REPORT — CAT Parts & Service Analytics
+============================================================
+Generated from: business_case_raw_data.xlsx
+
+PTOS SOURCE
+  Total records     : 10,165
+  Unique customers  : 7,859
+  Zero-sales records: 6,364  (62.6%)
+  Segments          : {'Do It Myself': np.int64(6479), 'Unassigned': np.int64(3196), 'Do It For Me': np.int64(328), 'Work With Me': np.int64(162)}
+  Regions           : {'ADANA': np.int64(2246), 'ANKARA': np.int64(2208), 'IZMIR': np.int64(1661), 'ISTANBUL': np.int64(1292), 'TRAKYA': np.int64(752), 'DIYARBAKIR': np.int64(682), 'BURSA': np.int64(648), 'ANTALYA': np.int64(348), 'OTHER': np.int64(328)}
+
+EQUIPMENT UNITS
+  Total records     : 10,165
+  Total fleet units : 22,969
+
+SALES CHANNEL
+  Total records     : 6,660
+  Total WO sales ($): 37,221,008
+  Total OTC sales ($): 42,043,478
+
+GRAND KPIs
+  Total Market Opportunity : $103,234,588
+  Total Realized Sales     : $54,159,341
+  Revenue Gap              : $49,075,247
+  POPS-C Conversion Rate   : 52.5%

@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+.venv
+venv/
+env/
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp / logs
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Large data artifacts (keep source + processed CSVs, skip very large extracts)
+data/processed/master_dataset_v*.csv
+*.tde
+*.hyper
