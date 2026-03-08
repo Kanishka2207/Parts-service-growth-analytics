@@ -1,5 +1,5 @@
 # Parts & Service Growth Strategy
-## PTOS Performance Analysis · CAT Equipment Dealership · Business Intelligence Case Study
+## PTOS Performance Analysis · Business Intelligence Case Study
 
 ---
 
